@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Alarm For NEET</string>
+    <string name="title_activity_option">Settings</string>
+    <string name="title_activity_statistics">Statistics</string>
+    <string name="title_reset">Reset</string>
+    <string name="test" translatable="false">Testing</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_statistics">Statistics</string>
+    <string name="action_save">Save</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_close">Close</string>
+
+    <string name="alert_ok">OK</string>
+    <string name="alert_cancel">Cancel</string>
+    <string name="alert_message">Are you sure you want to Reset All Data?</string>
+
+    <string name="extra_message">Now You are Wasting</string>
+    <string name="total_message">Total Wasting Time</string>
+    <string name="time_format_short">%1$dH %2$dM %3$dS</string>
+    <string name="time_format_long">%1$dY %2$dD %3$dH %4$dM %5$dS</string>
+
+    <string name="notify_title">Now Executing Alarm For NEET!</string>
+    <string name="notify_text">App is recording your wasting time..</string>
+
+    <string name="warning_inside">Should be go outside!</string>
+    <string name="warning_range_alarm">You Can\'t Turn On Range Alarm \n (Location isn\'t selected)</string>
+    <string name="warning_distance">Distance must be in 50 to 1000M</string>
+
+    <string name="marker_description">Alarm can be turn off outside of circle</string>
+    <string name="location_setting">Location Setting</string>
+    <string name="range_setting">(Distance)</string>
+    <string name="location_meter" translatable="false">M</string>
+    <string name="alarm_setting">Alarm Setting</string>
+
+    <string name="toggle1">Enable Alarm</string>
+    <string name="toggle2">Enable Location Alarm</string>
+
+    <string name="marker_title">Choose Your Location</string>
+
+    <string name="statistics_text_nodata">No Data Detected, Use Your Alarm First!</string>
+    <string name="statistics_button_lastday">Last 7 Days</string>
+    <string name="statistics_button_daily">Daily</string>
+    <string name="statistics_button_weekly">Weekly</string>
+    <string name="statistics_button_monthly">Monthly</string>
+
+    <string name="chart_legend_sum">Total Time</string>
+    <string name="chart_legend_avg">Average Time</string>
+
+    <string name="text_second">Sec</string>
+    <string name="text_minute">Min</string>
+    <string name="text_hour">Hours</string>
+    <string name="text_day">Days</string>
+    <string name="text_week">Weeks</string>
+    <string name="text_week_description">1Year = 53Weeks</string>
+
+    <string name="result_reset">Reset Complete</string>
+    <string name="result_setting">Setting Changed</string>
+</resources>

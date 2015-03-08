@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_light">#FF8F19</color>
+    <color name="orange_dark">#E85F0B</color>
+
+    <color name="blue_dark">#0C274C</color>
+    <color name="blue">#18709C</color>
+    <color name="blue_light">#19BDC4</color>
+
+    <color name="blue_daum">#5E93F1</color>
+    <color name="green_daum">#A8C500</color>
+    <color name="orange_daum">#FBB30E</color>
+    <color name="red_daum">#EB1515</color>
+
+    <color name="gray_light">#339E9E9E</color>
+
+</resources>

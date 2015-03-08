@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">갓수 경보기</string>
+    <string name="action_close">닫기</string>
+    <string name="action_reset">초기화</string>
+    <string name="action_save">저장</string>
+    <string name="action_settings">설정</string>
+    <string name="action_statistics">통계</string>
+    <string name="alert_cancel">취소</string>
+    <string name="alarm_setting">알람 설정</string>
+    <string name="alert_ok">확인</string>
+    <string name="alert_message">정말 초기화 하시겠습니까? </string>
+    <string name="extra_message">현재 잉여거린 시간</string>
+    <string name="location_setting">위치 설정</string>
+    <string name="warning_distance">거리는 50 ~ 1000M 사이에서 설정 할 수 있습니다</string>
+    <string name="warning_range_alarm">위치 알람을 켤 수 없습니다 \n(집 설정이 안 되어 있습니다.)</string>
+    <string name="statistics_button_daily">일간</string>
+    <string name="statistics_button_lastday">최근 7일</string>
+    <string name="statistics_button_monthly">월간</string>
+    <string name="statistics_button_weekly">주간</string>
+    <string name="total_message">총 누적 시간</string>
+    <string name="result_setting">설정이 변경되었습니다.</string>
+    <string name="result_reset">초기화가 완료되었습니다.</string>
+    <string name="notify_title">갓수 경보기 실행중!</string>
+    <string name="toggle1">알람</string>
+    <string name="toggle2">위치 알람 <small>(설정한 위치정보를 활용합니다)</small></string>
+    <string name="title_reset">초기화</string>
+    <string name="title_activity_option">설정</string>
+    <string name="title_activity_statistics">통계</string>
+    <string name="text_second">초</string>
+    <string name="text_minute">분</string>
+    <string name="text_hour">시간</string>
+    <string name="text_day">일</string>
+    <string name="statistics_text_nodata">아직 저장된 데이터가 없습니다, 알람을 실행해보세요!</string>
+    <string name="warning_inside">어서 준비하고 나가셔야죠 ㅠㅠ</string>
+    <string name="marker_title">장소 설정</string>
+    <string name="notify_text">현재 시간도 같이 기록하고 있답니다</string>
+    <string name="range_setting">(범위 설정)</string>
+    <string name="marker_description">원 밖으로 나가야 알람이 꺼집니다!</string>
+    <string name="time_format_long">%1$d년 %2$d일 %3$d시간 %4$d분 %5$d초</string>
+    <string name="time_format_short">%1$d시간 %2$d분 %3$d초</string>
+    <string name="chart_legend_sum">합계 시간</string>
+    <string name="chart_legend_avg">평균 시간</string>
+    <string name="text_week">주</string>
+    <string name="text_week_description">1년 = 53주</string>
+</resources>
